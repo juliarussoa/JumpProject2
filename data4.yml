@@ -1,0 +1,12 @@
+- Total salary per department: !!python/object/apply:decimal.Decimal
+  - '90000.00'
+  name: Sales
+- Total salary per department: !!python/object/apply:decimal.Decimal
+  - '43000.00'
+  name: HR
+- Total salary per department: !!python/object/apply:decimal.Decimal
+  - '40000.00'
+  name: IT
+- Total salary per department: !!python/object/apply:decimal.Decimal
+  - '40000.00'
+  name: Finance

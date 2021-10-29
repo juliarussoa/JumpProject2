@@ -1,0 +1,72 @@
+- Department Name: Accounting
+  Employee address: 2014 Jabberwocky Rd,Austin,TX
+  Employee name: Steven King
+  manager_id: null
+- Department Name: Accounting
+  Employee address: 23 Magdalen Ave,San Francisco,CA
+  Employee name: David Austin
+  manager_id: null
+- Department Name: Accounting
+  Employee address: 431 Vine Drive,Euless,TX
+  Employee name: John Chen
+  manager_id: null
+- Department Name: Accounting
+  Employee address: 671 Miles Court,San Lorenzo,CA
+  Employee name: Alexander Khoo
+  manager_id: null
+- Department Name: HR
+  Employee address: 2011 Interiors Lane,San Francisco,CA
+  Employee name: Neena  Kochhar
+  manager_id: null
+- Department Name: HR
+  Employee address: 103 Schwanthalerstr St,Rego Park,TX
+  Employee name: Valli Pataballa
+  manager_id: null
+- Department Name: HR
+  Employee address: 8396 Brook Drive,Pomona,CA
+  Employee name: Ismael Sciarra
+  manager_id: null
+- Department Name: HR
+  Employee address: 88 Canterbury Ave,Canandaigua,NJ
+  Employee name: Sigal Tobias
+  manager_id: 114
+- Department Name: IT
+  Employee address: 2004 Charade Rd,Seattle,WA
+  Employee name: Lex De Haan
+  manager_id: null
+- Department Name: IT
+  Employee address: 864 East Cherry St,Canandaigua,NJ
+  Employee name: Diana Lorentz
+  manager_id: 105
+- Department Name: IT
+  Employee address: 83 Eagle St,East Elmhurst,MA
+  Employee name: Jose Manuel Urman
+  manager_id: null
+- Department Name: IT
+  Employee address: 783 Baker St,Monsey,MA
+  Employee name: Matthew Weiss
+  manager_id: null
+- Department Name: Sales
+  Employee address: 147 Spadina Ave,East Elmhurst,MA
+  Employee name: Alexander Hunold
+  manager_id: 100
+- Department Name: Sales
+  Employee address: 54 South Greenview Drive,Campbell,MA
+  Employee name: Nancy Greenberg
+  manager_id: null
+- Department Name: Sales
+  Employee address: 720 Thompson Lane,Rego Park,TX
+  Employee name: Luis Popp
+  manager_id: 112
+- Department Name: Finance
+  Employee address: 8204 Arthur St',NULL,'London'
+  Employee name: Bruce Ernst
+  manager_id: null
+- Department Name: Finance
+  Employee address: 57 Glenholme St,San Jose,CA
+  Employee name: Daniel Faviet
+  manager_id: null
+- Department Name: Finance
+  Employee address: 947 Lafayette Drive,Brooklyn,NY
+  Employee name: Dan Raphaely
+  manager_id: 111

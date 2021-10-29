@@ -1,0 +1,15 @@
+- Lower paid employees: Nancy Greenberg
+  salary: !!python/object/apply:decimal.Decimal
+  - '2500.00'
+- Lower paid employees: Lex De Haan
+  salary: !!python/object/apply:decimal.Decimal
+  - '7000.00'
+- Lower paid employees: Matthew Weiss
+  salary: !!python/object/apply:decimal.Decimal
+  - '7942.00'
+- Lower paid employees: Valli Pataballa
+  salary: !!python/object/apply:decimal.Decimal
+  - '9000.00'
+- Lower paid employees: Jose Manuel Urman
+  salary: !!python/object/apply:decimal.Decimal
+  - '9400.00'

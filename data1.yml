@@ -1,0 +1,15 @@
+- Highest paid employees: Luis Popp
+  salary: !!python/object/apply:decimal.Decimal
+  - '45000.00'
+- Highest paid employees: Alexander Hunold
+  salary: !!python/object/apply:decimal.Decimal
+  - '45000.00'
+- Highest paid employees: Sigal Tobias
+  salary: !!python/object/apply:decimal.Decimal
+  - '43000.00'
+- Highest paid employees: Diana Lorentz
+  salary: !!python/object/apply:decimal.Decimal
+  - '40000.00'
+- Highest paid employees: Dan Raphaely
+  salary: !!python/object/apply:decimal.Decimal
+  - '40000.00'

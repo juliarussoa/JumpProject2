@@ -1,0 +1,6 @@
+id, name, headquarters_address_id
+1, Accounting, 1
+2, HR, 2
+3, IT, 3
+4, Sales, 4
+5, Finance, 5
